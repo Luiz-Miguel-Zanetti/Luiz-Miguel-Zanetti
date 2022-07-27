@@ -4,9 +4,9 @@ Olá, eu sou Luiz Miguel 🙋🏻‍♂️
  
     - 📱 Sou Desenvolvedor Mobile Android formado pela Generation Brasil.
    
-    - 😁Tenho conhecimento nas linguagens Kotlin e Java.
+    - 😁 Tenho conhecimento nas linguagens Kotlin e Java.
   
-    - 🔍Procuro meu primeiro emprego e já tendo o objetivo de ingressar na área de desenvolvimento mobile.
+    - 🔍 Procuro meu primeiro emprego e já tendo o objetivo de ingressar na área de desenvolvimento mobile.
    
    
    
